@@ -1,0 +1,4 @@
+include ':scanlibrary'
+include ':imagestopdf'
+include ':app'
+rootProject.name = "ClearScanner"
